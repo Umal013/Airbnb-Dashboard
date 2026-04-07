@@ -38,11 +38,6 @@ Download the .pbix file
 Open in Power BI Desktop
 Explore the dashboard using filters and visuals
 
-🧑‍💻 Author
-
-Umal Nitharwal
-
-LinkedIn: https://www.linkedin.com/in/umal-nitharwal-7a10992b1
 
 💡 Skills Demonstrated
 Data Cleaning & Transformation
@@ -50,3 +45,8 @@ Data Visualization
 Dashboard Design
 Business Insights Generation
 
+🧑‍💻 Author
+
+Umal Nitharwal
+
+LinkedIn: https://www.linkedin.com/in/umal-nitharwal-7a10992b1
